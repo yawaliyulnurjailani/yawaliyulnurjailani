@@ -10,9 +10,9 @@
                 margin: 0;
 
                 text-align: center;
-                height: 50px;
+                height: 100px;
 
-                background-size: 600% 400%;
+                background-size: 600% 300%;
 
                 }
 
