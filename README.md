@@ -18,6 +18,28 @@ Welcome to my GitHub portfolio! Here, you will find various projects that I have
 I am a software developer with a passion for web development and mobile development. I have experience in various programming languages and technologies, and I am always striving to learn new things and improve my skills.
 </p>
 
+
+## 📲 Contact Me
+If you are interested in collaborating or just want to chat, feel free to reach out to me via:
+<p align="left">
+  <a href="mailto:yawaliyulnurjailani@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" title="Gmail" height="35px" width="35px"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/yawaliyulnurjailani">
+    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" height="35px" width="35px"/>
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=twitter" title="Twitter" height="35px" width="35px"/>
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=instagram" title="Instagram" height="35px" width="35px"/>
+  </a>
+</p>
+
+
 ## 👨🏻‍💻 Skills
 Here are some of the skills I possess:
 
@@ -26,6 +48,7 @@ Here are some of the skills I possess:
 - **Databases**: MySQL, PostgreSQL, SQLite, Microsoft SQL Server
 - **Tools and Technologies**: Git, Docker, Postman, VsCode, SQLServer, VisualStudio, AndroidStudio, Handy Image Mapper
 
+
 ## 🌟 Hobbies
 Apart from coding, I also enjoy:
 
@@ -33,25 +56,6 @@ Apart from coding, I also enjoy:
 - **Outdoor Activities**: fotball, ping-pong, motorcycle tours
 - **Indoor Activities**: Apart from coding, I also have a keen interest in cryptocurrency and blockchain technology. I enjoy staying updated with the latest trends and developments in the crypto space, exploring new blockchain projects, and learning about decentralized finance (DeFi) concepts.
 
-## 📲 Contact Me
-If you are interested in collaborating or just want to chat, feel free to reach out to me via:
-<p align="left">
-  <a href="mailto:yawaliyulnurjailani@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" title="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/yawaliyulnurjailani">
-    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=twitter" title="Twitter"/>
-  </a>
-  &nbsp;
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=instagram" title="Instagram"/>
-  </a>
-</p>
 
 <!--## 🔗 Links
 - [Portfolio Website](https://github.com/yawaliyulnurjailani/yawaliyulnurjailani)
