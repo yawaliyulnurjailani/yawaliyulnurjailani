@@ -4,14 +4,14 @@
 
 Welcome to my GitHub portfolio! Here, you will find various projects that I have worked on, ranging from web applications, automation scripts, to open-source projects. I enjoy sharing my work with the community and am always open to collaboration.
 
-## 📒 Table of Contents
+<!--## 📒 Table of Contents
 
 - [About Me](#about-me)
 - [Skills](#skills)
 - [Hobbies](#hobbies)
 - [Contact Me](#contact-me)
 - [Top Repositories](#contact-me)
-<!-- [Links](#skills)-->
+- [Links](#skills)-->
 
 ## 🙎🏻‍♂️ About Me
 <p align="left">
