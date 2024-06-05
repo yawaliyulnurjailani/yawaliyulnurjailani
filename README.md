@@ -10,7 +10,8 @@ Welcome to my GitHub portfolio! Here, you will find various projects that I have
 - [Skills](#skills)
 - [Hobbies](#hobbies)
 - [Contact Me](#contact-me)
-- [Links](#skills)
+- [Top Repositories](#contact-me)
+<!-- [Links](#skills)-->
 
 ## 🙎🏻‍♂️ About Me
 <p align="left">
@@ -35,28 +36,41 @@ Apart from coding, I also enjoy:
 ## 📲 Contact Me
 If you are interested in collaborating or just want to chat, feel free to reach out to me via:
 <p align="left">
-  <a href="https://github.com/yawaliyulnurjailani">
+  <a href="mailto:yawaliyulnurjailani@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" title="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://github.com/yawaliyulnurjailani">
+  <a href="https://www.linkedin.com/in/yawaliyulnurjailani">
     <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://github.com/yawaliyulnurjailani">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=twitter" title="Twitter"/>
   </a>
   &nbsp;
-  <a href="https://github.com/yawaliyulnurjailani">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=instagram" title="Instagram"/>
   </a>
 </p>
 
-## 🔗 Links
+<!--## 🔗 Links
 - [Portfolio Website](https://github.com/yawaliyulnurjailani/yawaliyulnurjailani)
-- [Blog](https://github.com/yawaliyulnurjailani/yawaliyulnurjailani)
+- [Blog](https://github.com/yawaliyulnurjailani/yawaliyulnurjailani)-->
+## 🔮 Top Repositories
+
+<a>
+  <a href="https://github.com/yawaliyulnurjailani">
+    <img alt="Yawaliyul nur jailani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yawaliyulnurjailani&show_icons=true&locale=en&layout=compact&theme=radical" height="192px" width="29%"/>
+  </a>
+  <a href="https://github.com/yawaliyulnurjailani">
+    <img alt="Yawaliyul nur jailani's Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=yawaliyulnurjailani&show_icons=true&locale=en&layout=compact&theme=radical" height="192px" width="40%"/>
+  </a>
+  <a href="https://github.com/yawaliyulnurjailani">
+    <img alt="yawaliyulnurjailani" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yawaliyulnurjailani&show_icons=true&locale=en&layout=compact&theme=radical" height="192px" width="29%"/>
+  </a>
+</a>
 
 <br>
-<p align="left">
-  <strong>Thank you for visiting my GitHub portfolio 🙇🏻</strong>
-</p>
+
+### <p align="center" style="font-size:30px;"><strong>Thank you for visiting my GitHub portfolio 🙇🏻</strong></p>
+
