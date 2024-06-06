@@ -64,13 +64,13 @@ Apart from coding, I also enjoy:
 
 <a>
   <a href="https://github.com/yawaliyulnurjailani">
-    <img alt="Yawaliyul nur jailani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yawaliyulnurjailani&show_icons=true&locale=en&layout=compact&theme=radical" height="192px" width="29%"/>
+    <img alt="Yawaliyul nur jailani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yawaliyulnurjailani&show_icons=true&locale=en&layout=compact&theme=radical" width="29%"/>
   </a>
   <a href="https://github.com/yawaliyulnurjailani">
-    <img alt="Yawaliyul nur jailani's Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=yawaliyulnurjailani&show_icons=true&locale=en&layout=compact&theme=radical" height="192px" width="40%"/>
+    <img alt="Yawaliyul nur jailani's Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=yawaliyulnurjailani&show_icons=true&locale=en&layout=compact&theme=radical" width="40%"/>
   </a>
   <a href="https://github.com/yawaliyulnurjailani">
-    <img alt="yawaliyulnurjailani" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yawaliyulnurjailani&show_icons=true&locale=en&layout=compact&theme=radical" height="192px" width="29%"/>
+    <img alt="yawaliyulnurjailani" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yawaliyulnurjailani&show_icons=true&locale=en&layout=compact&theme=radical" width="29%"/>
   </a>
 </a>
 
