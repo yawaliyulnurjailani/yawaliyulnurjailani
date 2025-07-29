@@ -13,7 +13,7 @@ I'm excited to share with you the projects I've worked on and the skills I've de
 
 I'm a **Fullstack Developer** focused on building modern web and mobile applications.  
 For the **backend**, I specialize in developing scalable RESTful APIs using **ASP.NET Web API**.  
-For the **frontend**, I use **HTML**, **CSS**, **JavaScript**, and templating engines like **Laravel Blade** or **CodeIgniter View**.  
+For the **frontend**, I use **HTML**, **CSS**, **JavaScript**, and templating engines like **Laravel** or **CodeIgniter**.  
 I also build beautiful and responsive cross-platform mobile apps using **Flutter**.
 
 I enjoy turning complex problems into simple, user-friendly solutions while constantly learning and staying updated with the latest technologies.
