@@ -2,64 +2,61 @@
   <img src="assets/title.svg">
 </p>
 
-Welcome to my GitHub portfolio! Here, you will find various projects that I have worked on, ranging from web applications, automation scripts, to open-source projects. I enjoy sharing my work with the community and am always open to collaboration.
+# 👋 Hello and Welcome to My GitHub!
 
-<!--## 📒 Table of Contents
+Thank you for visiting my profile!  
+I'm excited to share with you the projects I've worked on and the skills I've developed along the way. Whether you're here to collaborate, get inspired, or just browse, feel free to explore!
 
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Hobbies](#hobbies)
-- [Contact Me](#contact-me)
-- [Top Repositories](#contact-me)
-- [Links](#skills)-->
+---
 
-## 🙎🏻‍♂️ About Me
-<p align="left">
-I am a software developer with a passion for web development and mobile development. I have experience in various programming languages and technologies, and I am always striving to learn new things and improve my skills.
-</p>
+## 👨‍💻 About Me
 
+I'm a **Fullstack Developer** focused on building modern web and mobile applications.  
+For the **backend**, I specialize in developing scalable RESTful APIs using **ASP.NET Web API**.  
+For the **frontend**, I use **HTML**, **CSS**, **JavaScript**, and templating engines like **Laravel Blade** or **CodeIgniter View**.  
+I also build beautiful and responsive cross-platform mobile apps using **Flutter**.
 
-## 📲 Contact Me
-If you are interested in collaborating or just want to chat, feel free to reach out to me via:
-<p align="left">
-  <a href="mailto:yawaliyulnurjailani@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" title="Gmail" height="35px" width="35px"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/yawaliyulnurjailani">
-    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" height="35px" width="35px"/>
-  </a>
-  &nbsp;
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=twitter" title="Twitter" height="35px" width="35px"/>
-  </a>
-  &nbsp;
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=instagram" title="Instagram" height="35px" width="35px"/>
-  </a>
-</p>
+I enjoy turning complex problems into simple, user-friendly solutions while constantly learning and staying updated with the latest technologies.
 
+---
 
-## 👨🏻‍💻 Skills
-Here are some of the skills I possess:
+## 📫 Contact
+- 📧 Email: [yawaliyulnurjailani@gmail.com]
 
-- **Programming Languages**: PHP, JavaScript, Dart, C#, HTML, CSS
-- **Frameworks and Libraries**: React, NextJS, Codeigniter, Flutter, ASP.NET
-- **Databases**: MySQL, PostgreSQL, SQLite, Microsoft SQL Server
-- **Tools and Technologies**: Git, Docker, Postman, VsCode, SQLServer, VisualStudio, AndroidStudio, Handy Image Mapper
+---
 
+## 🛠️ Skills
 
-## 🌟 Hobbies
-Apart from coding, I also enjoy:
+**Languages & Frameworks**
+- Dart (Flutter)
+- C# (ASP.NET Web API)
+- PHP (Laravel Blade, CodeIgniter Views – frontend use only)
+- HTML, CSS, JavaScript
+- SQL, MySQL, SQLite
 
-- **Reading**: manga, technology blogs
-- **Outdoor Activities**: fotball, ping-pong, motorcycle tours
-- **Indoor Activities**: Apart from coding, I also have a keen interest in cryptocurrency and blockchain technology. I enjoy staying updated with the latest trends and developments in the crypto space, exploring new blockchain projects, and learning about decentralized finance (DeFi) concepts.
+**Tools & Platforms**
+- Git, GitHub, GitLab
+- Firebase
+- Postman
+- SQL Server Management Studio
+- XAMPP
+- Visual Studio Code, Visual Studio, Android Studio
 
+**Others**
+- Publishing applications to Google Play Store & Apple App Store
 
-<!--## 🔗 Links
-- [Portfolio Website](https://github.com/yawaliyulnurjailani/yawaliyulnurjailani)
-- [Blog](https://github.com/yawaliyulnurjailani/yawaliyulnurjailani)-->
+---
+
+## 🎯 Hobbies
+
+- ⚽ Futsal  
+- 🏓 Table Tennis (Ping-Pong)  
+- 🏃 Jogging  
+- 🎮 Gaming  
+
+## 🔗 Links
+- [Portfolio Website](https://yawaliyulnurjailani.github.io/my_app/)
+
 ## 🔮 Top Repositories
 
 <a>
