@@ -7,8 +7,6 @@
 Thank you for visiting my profile!  
 I'm excited to share with you the projects I've worked on and the skills I've developed along the way. Whether you're here to collaborate, get inspired, or just browse, feel free to explore!
 
----
-
 ## 👨‍💻 About Me
 
 I'm a **Fullstack Developer** focused on building modern web and mobile applications.  
@@ -18,12 +16,8 @@ I also build beautiful and responsive cross-platform mobile apps using **Flutter
 
 I enjoy turning complex problems into simple, user-friendly solutions while constantly learning and staying updated with the latest technologies.
 
----
-
 ## 📫 Contact
 - 📧 Email: [yawaliyulnurjailani@gmail.com]
-
----
 
 ## 🛠️ Skills
 
@@ -44,8 +38,6 @@ I enjoy turning complex problems into simple, user-friendly solutions while cons
 
 **Others**
 - Publishing applications to Google Play Store & Apple App Store
-
----
 
 ## 🎯 Hobbies
 
