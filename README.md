@@ -24,7 +24,7 @@ I enjoy turning complex problems into simple, user-friendly solutions while cons
 **Languages & Frameworks**
 - Dart (Flutter)
 - C# (ASP.NET Web API)
-- PHP (Laravel Blade, CodeIgniter Views – frontend use only)
+- PHP (Laravel, CodeIgniter)
 - HTML, CSS, JavaScript
 - SQL, MySQL, SQLite
 
