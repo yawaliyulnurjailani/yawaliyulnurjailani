@@ -38,4 +38,6 @@ I enjoy turning complex problems into simple, user-friendly solutions, and I kee
   <img width="100%" src="https://raw.githubusercontent.com/yawaliyulnurjailani/yawaliyulnurjailani/output/snake-binance.svg" alt="Contribution snake" />
 </p>
 
-<img src="assets/footer.svg" width="100%" alt="Contact: yawaliyulnurjailani@gmail.com · Hobbies: futsal, table tennis, jogging, gaming" />
+<a href="mailto:yawaliyulnurjailani@gmail.com">
+  <img src="assets/footer.svg" width="100%" alt="Contact: yawaliyulnurjailani@gmail.com · Hobbies: futsal, table tennis, jogging, gaming" />
+</a>
