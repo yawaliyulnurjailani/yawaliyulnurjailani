@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://yawaliyulnurjailani.github.io/my_app/"><img src="https://img.shields.io/badge/View%20Portfolio-FCD535?style=for-the-badge&logo=googlechrome&logoColor=181A20" alt="View Portfolio" /></a>
   <a href="mailto:yawaliyulnurjailani@gmail.com"><img src="https://img.shields.io/badge/Send%20Email-1E2329?style=for-the-badge&logo=gmail&logoColor=FCD535" alt="Send Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=yawaliyulnurjailani&label=Profile%20Views&color=1E2329&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ## About me
