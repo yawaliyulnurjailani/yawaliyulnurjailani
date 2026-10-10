@@ -36,7 +36,7 @@ I enjoy turning complex problems into simple, user-friendly solutions, and I kee
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yawaliyulnurjailani&bg_color=1E2329&color=EAECEF&title_color=FCD535&line=FCD535&point=FFFFFF&area=true&area_color=FCD535&radius=12&hide_border=true" alt="Contribution Graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/yawaliyulnurjailani/yawaliyulnurjailani/output/snake-binance.svg" alt="Contribution snake" />
 </p>
 
 <img src="assets/footer.svg" width="100%" alt="Contact: yawaliyulnurjailani@gmail.com · Hobbies: futsal, table tennis, jogging, gaming" />
