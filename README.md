@@ -8,7 +8,7 @@ I'm a **Senior Fullstack Developer** at **PT Riau Sakti United Plantations (Samb
 
 A big part of my work is migrating legacy systems into modern, user-friendly solutions that are faster and easier to maintain, from real-time approval workflows to warehouse management and internal business tools. I care about clean, efficient, and maintainable code.
 
-Off the keyboard, you'll find me playing futsal, table tennis, jogging, or gaming.
+Off the keyboard, you'll find me playing:
 
 <img src="assets/hobbies.svg" height="44" alt="Hobbies: futsal, table tennis, jogging, gaming" />
 
