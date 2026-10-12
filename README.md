@@ -8,7 +8,7 @@ I'm a **Senior Fullstack Developer** at **PT Riau Sakti United Plantations (Samb
 
 A big part of my work is migrating legacy systems into modern, user-friendly solutions that are faster and easier to maintain, from real-time approval workflows to warehouse management and internal business tools. I care about clean, efficient, and maintainable code.
 
-Off the keyboard, you'll find me playing:
+Off the keyboard, you'll find me playing futsal, table tennis, jogging, or gaming.
 
 <img src="assets/hobbies.svg" height="44" alt="Hobbies: futsal, table tennis, jogging, gaming" />
 
@@ -21,7 +21,7 @@ Off the keyboard, you'll find me playing:
 ## GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yawaliyulnurjailani&show_icons=true&rank_icon=github&bg_color=1E2329&title_color=FCD535&text_color=EAECEF&icon_color=FCD535&ring_color=FCD535&border_radius=12&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yawaliyulnurjailani&show_icons=true&count_private=true&rank_icon=github&bg_color=1E2329&title_color=FCD535&text_color=EAECEF&icon_color=FCD535&ring_color=FCD535&border_radius=12&hide_border=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yawaliyulnurjailani&layout=compact&langs_count=8&bg_color=1E2329&title_color=FCD535&text_color=EAECEF&border_radius=12&hide_border=true" alt="Top Languages" />
 </p>
 
