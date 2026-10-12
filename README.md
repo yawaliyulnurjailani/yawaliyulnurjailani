@@ -9,19 +9,17 @@
 
 ## About me
 
-I'm a **Fullstack Developer** who builds modern web and mobile applications end to end. On the backend I design scalable RESTful APIs with **ASP.NET Web API**, and I build web apps with **Laravel** and **CodeIgniter**. On mobile I ship cross-platform apps with **Flutter** and publish them to the **Google Play Store** and **Apple App Store**.
+I'm a **Senior Fullstack Developer** at **PT Riau Sakti United Plantations (Sambu Group)**, where I've been building and maintaining web and mobile applications for enterprise operations since 2018. I build cross-platform apps with **Flutter** and scalable backend services with **ASP.NET Web API**, and I work closely with frontend teams on **Laravel** and **CodeIgniter**.
 
-I enjoy turning complex problems into simple, user-friendly solutions, and I keep learning to stay current with new technologies.
+A big part of my work is migrating legacy systems into modern, user-friendly solutions that are faster and easier to maintain, from real-time approval workflows to warehouse management and internal business tools. I care about clean, efficient, and maintainable code.
+
+Off the keyboard, you'll find me playing ⚽ futsal, 🏓 table tennis, 🏃 jogging, or 🎮 gaming.
 
 <img src="assets/stack.svg" width="100%" alt="Tech stack: ASP.NET Web API, Laravel, CodeIgniter, Flutter, HTML/CSS/JavaScript, SQL Server, MySQL, SQLite, Firebase" />
 
-## Featured project
+<img src="assets/experience.svg" width="100%" alt="Experience: Senior Fullstack Developer (2022–present), Fullstack Developer (2020–2022), Web Developer (2018–2020) at PT Riau Sakti United Plantations, Sambu Group" />
 
-<p align="center">
-  <a href="https://github.com/yawaliyulnurjailani/my_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yawaliyulnurjailani&repo=my_app&bg_color=1E2329&title_color=FCD535&text_color=EAECEF&icon_color=FCD535&border_radius=12&hide_border=true" alt="my_app repository" />
-  </a>
-</p>
+<img src="assets/projects.svg" width="100%" alt="Featured projects: Approval Relasi Pancang, E-buletin Sambu Group, Salary Handover Documentation, Warehouse Mapping System" />
 
 ## GitHub stats
 
@@ -39,5 +37,5 @@ I enjoy turning complex problems into simple, user-friendly solutions, and I kee
 </p>
 
 <a href="mailto:yawaliyulnurjailani@gmail.com">
-  <img src="assets/footer.svg" width="100%" alt="Contact: yawaliyulnurjailani@gmail.com · Hobbies: futsal, table tennis, jogging, gaming" />
+  <img src="assets/footer.svg" width="100%" alt="Have a project in mind? Send me an email — Thanks for visiting my profile" />
 </a>
