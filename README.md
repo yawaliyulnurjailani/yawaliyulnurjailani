@@ -3,8 +3,9 @@
 </a>
 
 <p align="center">
-  <a href="https://yawaliyulnurjailani.github.io/my_app/"><img src="https://img.shields.io/badge/View%20Portfolio-FCD535?style=for-the-badge&logo=googlechrome&logoColor=181A20" alt="View Portfolio" /></a>
-  <a href="mailto:yawaliyulnurjailani@gmail.com"><img src="https://img.shields.io/badge/Send%20Email-1E2329?style=for-the-badge&logo=gmail&logoColor=FCD535" alt="Send Email" /></a>
+  <a href="https://yawaliyulnurjailani.github.io/my_app/"><img src="assets/btn-portfolio.svg" height="48" alt="View Portfolio" /></a>
+  &nbsp;
+  <a href="mailto:yawaliyulnurjailani@gmail.com"><img src="assets/btn-email.svg" height="48" alt="Send Email" /></a>
 </p>
 
 ## About me
@@ -13,7 +14,9 @@ I'm a **Senior Fullstack Developer** at **PT Riau Sakti United Plantations (Samb
 
 A big part of my work is migrating legacy systems into modern, user-friendly solutions that are faster and easier to maintain, from real-time approval workflows to warehouse management and internal business tools. I care about clean, efficient, and maintainable code.
 
-Off the keyboard, you'll find me playing ⚽ futsal, 🏓 table tennis, 🏃 jogging, or 🎮 gaming.
+Off the keyboard, you'll find me playing futsal, table tennis, jogging, or gaming.
+
+<img src="assets/hobbies.svg" height="44" alt="Hobbies: futsal, table tennis, jogging, gaming" />
 
 <img src="assets/stack.svg" width="100%" alt="Tech stack: ASP.NET Web API, Laravel, CodeIgniter, Flutter, HTML/CSS/JavaScript, SQL Server, MySQL, SQLite, Firebase" />
 
