@@ -2,12 +2,6 @@
   <img src="assets/hero.svg" width="100%" alt="Yawaliyul Nur Jailani — Fullstack Developer" />
 </a>
 
-<p align="center">
-  <a href="https://yawaliyulnurjailani.github.io/my_app/"><img src="assets/btn-portfolio.svg" height="48" alt="View Portfolio" /></a>
-  &nbsp;
-  <a href="mailto:yawaliyulnurjailani@gmail.com"><img src="assets/btn-email.svg" height="48" alt="Send Email" /></a>
-</p>
-
 ## About me
 
 I'm a **Senior Fullstack Developer** at **PT Riau Sakti United Plantations (Sambu Group)**, where I've been building and maintaining web and mobile applications for enterprise operations since 2018. I build cross-platform apps with **Flutter** and scalable backend services with **ASP.NET Web API**, and I work closely with frontend teams on **Laravel** and **CodeIgniter**.
@@ -39,6 +33,6 @@ Off the keyboard, you'll find me playing futsal, table tennis, jogging, or gamin
   <img width="100%" src="https://raw.githubusercontent.com/yawaliyulnurjailani/yawaliyulnurjailani/output/snake-binance.svg" alt="Contribution snake" />
 </p>
 
-<a href="mailto:yawaliyulnurjailani@gmail.com">
-  <img src="assets/footer.svg" width="100%" alt="Have a project in mind? Send me an email — Thanks for visiting my profile" />
-</a>
+<p><img src="assets/cta-text.svg" width="61.6%" alt="Have a project in mind? Open to collaboration, freelance work, or a friendly chat about tech." /><a href="https://yawaliyulnurjailani.github.io/my_app/"><img src="assets/cta-portfolio.svg" width="19.3%" alt="View Portfolio" /></a><a href="mailto:yawaliyulnurjailani@gmail.com"><img src="assets/cta-email.svg" width="19%" alt="Send Email" /></a></p>
+
+<img src="assets/footer.svg" width="100%" alt="Thanks for visiting my profile" />
