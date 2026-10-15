@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm a **Senior Fullstack Developer** at **PT Riau Sakti United Plantations (Sambu Group)**, where I've been building and maintaining web and mobile applications for enterprise operations since 2018. I build cross-platform apps with **Flutter** and scalable backend services with **ASP.NET Web API**, and I work closely with frontend teams on **Laravel** and **CodeIgniter**.
+I'm a **Senior Fullstack Developer** at a large plantation and agribusiness company, where I've been building and maintaining web and mobile applications for enterprise operations since 2018. I build cross-platform apps with **Flutter** and scalable backend services with **ASP.NET Web API**, and I work closely with frontend teams on **Laravel** and **CodeIgniter**.
 
 A big part of my work is migrating legacy systems into modern, user-friendly solutions that are faster and easier to maintain, from real-time approval workflows to warehouse management and internal business tools. I care about clean, efficient, and maintainable code.
 
@@ -21,16 +21,19 @@ Off the keyboard, you'll find me playing:
 ## GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yawaliyulnurjailani&show_icons=true&count_private=true&rank_icon=github&bg_color=1E2329&title_color=FCD535&text_color=EAECEF&icon_color=FCD535&ring_color=FCD535&border_radius=12&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yawaliyulnurjailani&layout=compact&langs_count=8&bg_color=1E2329&title_color=FCD535&text_color=EAECEF&border_radius=12&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yawaliyulnurjailani&show_icons=true&count_private=true&rank_icon=github&bg_color=272729&title_color=FFFFFF&text_color=CCCCCC&icon_color=2997FF&ring_color=2997FF&border_radius=18&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yawaliyulnurjailani&layout=compact&langs_count=8&bg_color=272729&title_color=FFFFFF&text_color=CCCCCC&border_radius=18&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yawaliyulnurjailani&background=1E2329&border=2B3139&stroke=2B3139&ring=FCD535&fire=FCD535&currStreakNum=FCD535&currStreakLabel=FCD535&sideNums=FFFFFF&sideLabels=EAECEF&dates=707A8A&border_radius=12&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=yawaliyulnurjailani&background=272729&border=272729&stroke=3A3A3C&ring=2997FF&fire=2997FF&currStreakNum=FFFFFF&currStreakLabel=2997FF&sideNums=FFFFFF&sideLabels=CCCCCC&dates=7A7A7A&border_radius=18&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/yawaliyulnurjailani/yawaliyulnurjailani/output/snake-binance.svg" alt="Contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yawaliyulnurjailani/yawaliyulnurjailani/output/snake-apple-dark.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/yawaliyulnurjailani/yawaliyulnurjailani/output/snake-apple.svg" alt="Contribution snake" />
+  </picture>
 </p>
 
 <p><img src="assets/cta-text.svg" width="61.6%" alt="Have a project in mind? Open to collaboration, freelance work, or a friendly chat about tech." /><a href="https://yawaliyulnurjailani.github.io/my_app/"><img src="assets/cta-portfolio.svg" width="19.3%" alt="View Portfolio" /></a><a href="mailto:yawaliyulnurjailani@gmail.com"><img src="assets/cta-email.svg" width="19%" alt="Send Email" /></a></p>
