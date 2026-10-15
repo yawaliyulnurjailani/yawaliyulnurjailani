@@ -30,7 +30,7 @@ Off the keyboard, you'll find me playing:
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/yawaliyulnurjailani/yawaliyulnurjailani/output/snake-binance.svg" alt="Contribution snake" />
+  <img width="100%" src="https://raw.githubusercontent.com/yawaliyulnurjailani/yawaliyulnurjailani/output/snake.svg" alt="Contribution snake" />
 </p>
 
 <p><img src="assets/cta-text.svg" width="61.6%" alt="Have a project in mind? Open to collaboration, freelance work, or a friendly chat about tech." /><a href="https://yawaliyulnurjailani.github.io/my_app/"><img src="assets/cta-portfolio.svg" width="19.3%" alt="View Portfolio" /></a><a href="mailto:yawaliyulnurjailani@gmail.com"><img src="assets/cta-email.svg" width="19%" alt="Send Email" /></a></p>
