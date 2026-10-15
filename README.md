@@ -16,8 +16,6 @@ Off the keyboard, you'll find me playing:
 
 <img src="assets/experience.svg" width="100%" alt="Experience: Senior Fullstack Developer (2022–present), Fullstack Developer (2020–2022), Web Developer (2018–2020) at PT Riau Sakti United Plantations, Sambu Group" />
 
-<img src="assets/projects.svg" width="100%" alt="Featured projects: Approval Relasi Pancang, E-buletin Sambu Group, Salary Handover Documentation, Warehouse Mapping System" />
-
 ## GitHub stats
 
 <p align="center">
