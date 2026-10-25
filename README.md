@@ -1,5 +1,5 @@
 <a href="https://yawaliyulnurjailani.github.io/my_app/">
-  <img src="assets/hero.svg" width="100%" alt="Yawaliyul Nur Jailani — Fullstack Developer" />
+  <img src="assets/hero.svg" width="100%" alt="Yawaliyul Nur Jailani - Fullstack Developer" />
 </a>
 
 
