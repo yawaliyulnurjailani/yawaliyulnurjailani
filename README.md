@@ -13,7 +13,7 @@ Off the keyboard, you'll find me playing:
 
 <img src="assets/hobbies.svg" height="44" alt="Hobbies: futsal, table tennis, jogging, gaming" />
 
-<img src="assets/stack.svg" width="100%" alt="Tech stack: ASP.NET Web API, Laravel, CodeIgniter, Flutter, HTML/CSS/JavaScript, SQL Server, MySQL, SQLite, Firebase" />
+<img src="assets/stack.svg" width="100%" alt="Tech stack: ASP.NET Web API, Laravel, CodeIgniter, Flutter, NextJS, HTML/CSS/JavaScript, SQL Server, MySQL, SQLite, Firebase" />
 
 <img src="assets/experience.svg" width="100%" alt="Experience: Senior Fullstack Developer (2022–present), Fullstack Developer (2020–2022), Web Developer (2018–2020) at PT Riau Sakti United Plantations, Sambu Group" />
 
