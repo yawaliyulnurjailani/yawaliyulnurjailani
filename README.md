@@ -20,8 +20,8 @@ Off the keyboard, you'll find me playing:
 ## GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yawaliyulnurjailani&show_icons=true&count_private=true&rank_icon=github&bg_color=1E2329&title_color=FCD535&text_color=EAECEF&icon_color=FCD535&ring_color=FCD535&border_radius=12&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yawaliyulnurjailani&layout=compact&langs_count=8&bg_color=1E2329&title_color=FCD535&text_color=EAECEF&border_radius=12&hide_border=true" alt="Top Languages" />
+  <img height="170" src="[https://github-readme-stats.vercel.app/api?username=yawaliyulnurjailani&show_icons=true&count_private=true&rank_icon=github&bg_color=1E2329&title_color=FCD535&text_color=EAECEF&icon_color=FCD535&ring_color=FCD535&border_radius=12&hide_border=true](https://github-readme-stats-fast.vercel.app/api?username=yawaliyulnurjailani&show_icons=true&rank_icon=github&bg_color=1E2329&title_color=FCD535&text_color=EAECEF&icon_color=FCD535&ring_color=FCD535&border_radius=12&hide_border=true)" alt="GitHub Stats" />
+  <img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=yawaliyulnurjailani&layout=compact&langs_count=8&bg_color=1E2329&title_color=FCD535&text_color=EAECEF&border_radius=12&hide_border=true](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yawaliyulnurjailani&layout=compact&langs_count=8&bg_color=1E2329&title_color=FCD535&text_color=EAECEF&border_radius=12&hide_border=true)" alt="Top Languages" />
 </p>
 
 <p align="center">
