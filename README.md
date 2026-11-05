@@ -25,7 +25,7 @@ Off the keyboard, you'll find me playing:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yawaliyulnurjailani&background=1E2329&border=2B3139&stroke=2B3139&ring=FCD535&fire=FCD535&currStreakNum=FCD535&currStreakLabel=FCD535&sideNums=FFFFFF&sideLabels=EAECEF&dates=707A8A&border_radius=12&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=yawaliyulnurjailani&background=1E2329&border=2B3139&stroke=2B3139&ring=FCD535&fire=FCD535&currStreakNum=FCD535&currStreakLabel=FCD535&sideNums=FFFFFF&sideLabels=EAECEF&dates=707A8A&border_radius=12&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
